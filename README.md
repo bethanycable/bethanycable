@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bethanycable
-- 👀 I’m interested in FrontEnd Web Development
+- 👀 I’m interested in Frontend Web Development
 - 🌱 I’m currently learning React and Fullstack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: bethany.a.cable@gmail.com
