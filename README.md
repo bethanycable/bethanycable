@@ -8,4 +8,9 @@
 
 
 ## Tech Stack:
-  - Javascript, Nodejs, Expressjs, Webpack, React, React Router, Boostrap, MongoDB, Postgres, Redux, HTML5, CSS3, Sass, 
+  - HTML5, JavaScript, TypeScript, React, React Router, Redux
+  - CSS3, Sass, TailwindCSS, Boostrap
+  - Webpack, Vite
+  - Expressjs, Nodejs
+  - MongoDB, PostgresSQL
+  - bcrypt
