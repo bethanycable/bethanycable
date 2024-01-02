@@ -9,10 +9,11 @@
 
 
 ## Tech Stack:
-  - HTML5, JavaScript, TypeScript, React, React Router, Redux
+  - HTML5, JavaScript, TypeScript, React, React Router, Redux, Python
   - CSS3, Sass, TailwindCSS, Boostrap
   - Webpack, Vite
   - Expressjs, Nodejs
   - MongoDB, PostgresSQL
   - bcrypt
+  - Notion, Figma
 
